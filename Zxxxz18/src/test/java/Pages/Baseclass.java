@@ -29,7 +29,7 @@ public class Baseclass {
 public WebDriver driver;
 public Exceldataprovider excel;
 public Configuredataprovider config;
-public ExtentReports report1;
+public ExtentReports report;
 public ExtentTest logger;
 
 @BeforeSuite
